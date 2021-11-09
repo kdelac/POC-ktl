@@ -1,0 +1,3 @@
+include ':login2'
+include ':app'
+rootProject.name = "POC"
